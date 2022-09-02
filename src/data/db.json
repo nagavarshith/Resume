@@ -1,0 +1,55 @@
+{
+    "name": "Nagavarshith Jayarapu",
+    "mobile": 9133916515,
+    "email": "nagqvarshith123@gmail.com",
+    "address": "plot no 47,Sri Sai Enclave,Old Bowenpally,Secunderabad,500011",
+    "objective":"To gain knowledge everyday and work practically to gain experience.",
+    "education": [
+        {
+            "id":1,
+            "course": "SSC",
+            "institute": "Vision High School",
+            "score": "8.8"
+        },
+        {
+            "id":2,
+            "course": "Diploma(ECE)",
+            "institute": "VNR Vignan jyothi institute of technology",
+            "score": "92%"
+        },
+        {
+            "id":3,
+            "course": "B.Tech(ECE)",
+            "institute": "BVRIT,Narsapur",
+            "score": "8.7"   
+        }
+    ],
+    "certificates": [
+        "python for everybody",
+        "nptel python",
+        "ocja from oracle",
+        "machine learning beginner from coursera"
+    ],
+    "internships": [
+        "6 months as assembly engineer in SIRIUS SOLAR PVT LTD.",
+        "3 months as Full Stack developer in VIRTUSA"
+    ],
+    "projects": [
+        "solar tracker",
+        "chatbot",
+        "fashion classification",
+        "video segmentation",
+        "admission portal"
+    ],
+    "hobbies": [
+        "watching cartoon",
+        "playing with kids"
+    ],
+    "skills": [
+        "java",
+        "python",
+        "spring",
+        "react",
+        "machine learning basics"
+    ]
+}
